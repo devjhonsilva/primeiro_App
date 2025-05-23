@@ -1,11 +1,29 @@
 <h1 align="center">
 <img src='src/assets/logo@3x.png' />
 <p>Cadastro de Times</p>
+
+<br>
+
 </h1>
 
 ## 📕 Sobre
 
 Aplicativo para cadastro de pessoas em times diferentes, a finalizade do aplicativo é didática onde o essêncial é a metódos utilizados para armazenamento local, navegação entre telas e estilização dos componentes, além de mapeamento de pastas, criação de componentes com estilização a depender do estado passado por props e mais.
+
+<div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+  <figure style="text-align: center;">
+    <img width="150" src="assetsReadme/Captura de tela 2025-05-23 095820.png" />
+    <figcaption>📌 Tela de Cadastro</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img width="150" src="assetsReadme/Captura de tela 2025-05-23 095855.png" />
+    <figcaption>👥 Lista de Participantes</figcaption>
+  </figure>
+  <figure style="text-align: center;">
+    <img width="150" src="assetsReadme/Captura de tela 2025-05-23 095924.png" />
+    <figcaption>📂 Seleção de Times</figcaption>
+  </figure>
+</div>
 
 ## 🔨 Ferramentas
 
